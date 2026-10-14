@@ -1,6 +1,6 @@
 cask "gukgichwi-planner" do
-  version "0.1.13"
-  sha256 "baaa83fc0edd6d382e6dd30965d14b98521384355133e0fe7af3ab148d0fc2d7"
+  version "0.1.14"
+  sha256 "e427cce5068f342295d9f46eed6156231d3e0e8691b22e076dfdeb0c0a05ed08"
 
   url "https://github.com/omnumn/gukgichwi-release/releases/download/v#{version}/gukgichwi-planner-universal.dmg"
   name "극기취 플래너"
